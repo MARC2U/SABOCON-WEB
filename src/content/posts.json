@@ -1,0 +1,3216 @@
+[
+  {
+    "_id": "local-manifesto",
+    "slug": "what-we-believe",
+    "title": {
+      "de": "WORAN WIR GLAUBEN.",
+      "en": "WHAT WE BELIEVE.",
+      "fr": "NOS CONVICTIONS."
+    },
+    "excerpt": {
+      "de": "Technologie, Design und KI brauchen eine klare Haltung. Unser Manifest beschreibt, was uns antreibt und wie wir arbeiten.",
+      "en": "Technology, design and AI need a clear purpose. Our manifesto sets out what drives us and how we work.",
+      "fr": "Notre manifeste : la stratégie, le design, l’IA, l’accessibilité et les systèmes durables au service de la clarté."
+    },
+    "publishedAt": "2026-11-23T12:00:00+01:00",
+    "image": {
+      "url": "/blog/manifesto.jpg",
+      "aspectRatio": 0.75,
+      "alt": {
+        "de": "SABOCON-Manifest für digitale Klarheit mit sechs Grundsätzen zu Strategie, Design, KI, Barrierefreiheit, Nachhaltigkeit und verständlicher Komplexität.",
+        "en": "SABOCON manifesto for digital clarity with six principles on strategy, design, AI, accessibility, sustainability and understandable complexity.",
+        "fr": "Manifeste SABOCON pour la clarté numérique présentant six convictions."
+      }
+    },
+    "body": {
+      "de": [
+        {
+          "_type": "block",
+          "_key": "p0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "a0",
+              "text": "Viele Unternehmen haben eine Seite mit der Überschrift ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "b0",
+              "text": "„Über uns“",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "c0",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t1",
+              "text": "Wir glauben, dass das nicht reicht.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "a2",
+              "text": "Denn Menschen möchten nicht nur wissen, ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "b2",
+              "text": "was",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "c2",
+              "text": " wir tun.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "a3",
+              "text": "Sie möchten wissen, ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "b3",
+              "text": "warum",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "c3",
+              "text": " wir es tun.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t4",
+              "text": "Deshalb arbeiten wir an einem Manifest.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t5",
+              "text": "Nicht als Marketinginstrument.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t6",
+              "text": "Sondern als Ausdruck unserer Haltung.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t7",
+              "text": "Wir glauben:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t8",
+              "text": "Technologie ohne Strategie ist Zufall.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t9",
+              "text": "Design ohne Wirkung ist Dekoration.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t10",
+              "text": "KI ohne Struktur bleibt Spielerei.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t11",
+              "text": "Barrierefreiheit ist kein Extra.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t12",
+              "text": "Nachhaltigkeit beginnt bei digitalen Systemen, die auch morgen noch funktionieren.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t13",
+              "text": "Komplexität darf sichtbar sein.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t14",
+              "text": "Aber sie muss verständlich werden.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t15",
+              "text": "Diese Überzeugungen begleiten jedes Projekt, jede Entscheidung und jede Lösung, die wir entwickeln.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p16",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t16",
+              "text": "Denn am Ende verkaufen wir keine Websites.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t17",
+              "text": "Keine Software.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p18",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t18",
+              "text": "Keine KI.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t19",
+              "text": "Wir schaffen digitale Lösungen, die Orientierung geben, nachhaltig funktionieren und echten Mehrwert schaffen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t20",
+              "text": "Woran wir glauben, bestimmt, wie wir arbeiten.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p21",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t21",
+              "text": "Und genau deshalb ist ein Manifest oft aussagekräftiger als jede klassische „Über uns“-Seite.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p22",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "site",
+              "href": "https://www.sabocon.com/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t22",
+              "text": "🌐 www.sabocon.com",
+              "marks": [
+                "site"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p23",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t23",
+              "text": "#DigitalStrategy #ArtificialIntelligence #DesignThinking #Accessibility #SABOCON",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "_type": "block",
+          "_key": "p0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "a0",
+              "text": "Many companies have a page headed ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "b0",
+              "text": "“About us”",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "c0",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t1",
+              "text": "We believe that is not enough.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "a2",
+              "text": "Because people don’t just want to know ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "b2",
+              "text": "what",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "c2",
+              "text": " we do.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "a3",
+              "text": "They want to know ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "b3",
+              "text": "why",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "c3",
+              "text": " we do it.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t4",
+              "text": "That is why we are working on a manifesto.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t5",
+              "text": "Not as a marketing tool.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t6",
+              "text": "But as an expression of our beliefs.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t7",
+              "text": "We believe:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t8",
+              "text": "Technology without strategy is random.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t9",
+              "text": "Design without impact is decoration.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t10",
+              "text": "AI without structure remains a toy.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t11",
+              "text": "Accessibility is not an extra.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t12",
+              "text": "Sustainability starts with digital systems that will still work tomorrow.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t13",
+              "text": "Complexity can be visible.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t14",
+              "text": "But it must be understood.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t15",
+              "text": "These beliefs guide every project, every decision and every solution we develop.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p16",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t16",
+              "text": "Because ultimately, we don’t sell websites.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t17",
+              "text": "Or software.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p18",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t18",
+              "text": "Or AI.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t19",
+              "text": "We create digital solutions that provide direction, work sustainably and deliver real value.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t20",
+              "text": "What we believe determines how we work.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p21",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t21",
+              "text": "And that is precisely why a manifesto often says more than a conventional “About us” page.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p22",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "site",
+              "href": "https://www.sabocon.com/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t22",
+              "text": "🌐 www.sabocon.com",
+              "marks": [
+                "site"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p23",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t23",
+              "text": "#DigitalStrategy #ArtificialIntelligence #DesignThinking #Accessibility #SABOCON",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "_type": "block",
+          "_key": "fr0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt0",
+              "text": "De nombreuses entreprises ont une page intitulée « À propos ».",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt1",
+              "text": "Nous pensons que cela ne suffit pas.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt2",
+              "text": "Car les gens ne veulent pas seulement savoir ce que nous faisons.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt3",
+              "text": "Ils veulent savoir pourquoi nous le faisons.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt4",
+              "text": "C’est pourquoi nous travaillons à un manifeste.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt5",
+              "text": "Pas comme outil marketing.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt6",
+              "text": "Mais comme expression de nos convictions.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt7",
+              "text": "Nous croyons que :",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt8",
+              "text": "La technologie sans stratégie relève du hasard.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt9",
+              "text": "Le design sans impact est de la décoration.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt10",
+              "text": "L’IA sans structure reste un jouet.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt11",
+              "text": "L’accessibilité n’est pas une option.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt12",
+              "text": "La durabilité commence par des systèmes numériques qui fonctionneront encore demain.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt13",
+              "text": "La complexité peut être visible.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt14",
+              "text": "Mais elle doit être comprise.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt15",
+              "text": "Ces convictions accompagnent chaque projet, chaque décision et chaque solution que nous développons.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr16",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt16",
+              "text": "Car, au fond, nous ne vendons pas de sites web.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt17",
+              "text": "Ni de logiciels.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr18",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt18",
+              "text": "Ni d’IA.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt19",
+              "text": "Nous créons des solutions numériques qui donnent des repères, fonctionnent durablement et apportent une réelle valeur.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt20",
+              "text": "Ce que nous croyons détermine notre façon de travailler.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr21",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt21",
+              "text": "C’est précisément pourquoi un manifeste en dit souvent plus qu’une page « À propos » classique.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr22",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "site",
+              "href": "https://www.sabocon.com/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt22",
+              "text": "🌐 www.sabocon.com",
+              "marks": [
+                "site"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr23",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt23",
+              "text": "#DigitalStrategy #ArtificialIntelligence #DesignThinking #Accessibility #SABOCON",
+              "marks": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "local-same-product",
+    "slug": "same-product-different-experience",
+    "title": {
+      "en": "THE PRODUCT DIDN’T CHANGE. THE BRAND DID.",
+      "de": "DAS PRODUKT BLIEB GLEICH. DIE MARKE NICHT.",
+      "fr": "LE PRODUIT N’A PAS CHANGÉ. LA MARQUE, SI."
+    },
+    "excerpt": {
+      "en": "Same product. Different experience. How expectation, recognition and trust shape our perception of brands.",
+      "de": "Dasselbe Produkt. Ein anderes Erlebnis. Wie Erwartung, Wiedererkennung und Vertrauen unsere Markenwahrnehmung prägen.",
+      "fr": "Même produit, autre expérience : comment les attentes et la confiance façonnent notre perception des marques."
+    },
+    "publishedAt": "2026-11-23T12:00:00+01:00",
+    "image": {
+      "url": "/blog/same-product-different-experience.jpg",
+      "aspectRatio": 0.8,
+      "alt": {
+        "en": "Two identical jars, one with an orange label, beneath the headline “Same product. Different experience.”",
+        "de": "Zwei identische Gläser, eines mit orangefarbenem Etikett, unter der Überschrift „Same product. Different experience.“",
+        "fr": "Deux pots identiques, dont un porte une étiquette orange, sous le titre « Same product. Different experience. »."
+      }
+    },
+    "body": {
+      "en": [
+        {
+          "_type": "block",
+          "_key": "p0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t0",
+              "text": "And suddenly, it felt different.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t1",
+              "text": "A fascinating experiment recently removed familiar brands from products people already knew and loved.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t2",
+              "text": "Same product.\nSame ingredients.\nSame formula.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t3",
+              "text": "Just without the familiar name and packaging.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t4",
+              "text": "The result?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t5",
+              "text": "Most participants perceived the supposedly different product as worse.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t6",
+              "text": "Taste changed.\nSmell changed.\nEven the feeling of effectiveness changed.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t7",
+              "text": "Except, of course, none of it actually had.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t8",
+              "text": "So what changed?",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t9",
+              "text": "Expectation.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t10",
+              "text": "Recognition.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t11",
+              "text": "Trust.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t12",
+              "text": "Memory.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t13",
+              "text": "Emotion.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t14",
+              "text": "In other words:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t15",
+              "text": "THE BRAND.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p16",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t16",
+              "text": "This is something we sometimes forget when talking about branding.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t17",
+              "text": "A brand isn't the logo in the corner.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p18",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t18",
+              "text": "It is the accumulated experience surrounding a product or company – built through design, communication, advertising, interaction and countless repetitions over time.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t19",
+              "text": "And eventually, that experience becomes part of how we perceive the product itself.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t20",
+              "text": "That's why consistency matters.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p21",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t21",
+              "text": "That's why distinctive design matters.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p22",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t22",
+              "text": "That's why repetition matters.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p23",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t23",
+              "text": "And that's why building a brand is fundamentally different from simply creating a logo, a website or a campaign.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p24",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t24",
+              "text": "A PRODUCT IS WHAT YOU MAKE.\nA BRAND IS WHAT PEOPLE EXPERIENCE.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p25",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t25",
+              "text": "And sometimes, apparently, they can even taste the difference.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p26",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t26",
+              "text": "SABOCON\nCREATIVE INTELLIGENCE.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p27",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "site",
+              "href": "https://www.sabocon.com/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t27",
+              "text": "www.sabocon.com",
+              "marks": [
+                "site"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p28",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t28",
+              "text": "#SABOCON #Branding #BrandStrategy #BrandExperience #CreativeIntelligence",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "de": [
+        {
+          "_type": "block",
+          "_key": "p0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t0",
+              "text": "Und plötzlich fühlte es sich anders an.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t1",
+              "text": "In einem faszinierenden Experiment wurden kürzlich vertraute Marken von Produkten entfernt, die Menschen bereits kannten und liebten.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t2",
+              "text": "Dasselbe Produkt.\nDieselben Zutaten.\nDieselbe Rezeptur.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t3",
+              "text": "Nur ohne den vertrauten Namen und die bekannte Verpackung.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t4",
+              "text": "Das Ergebnis?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t5",
+              "text": "Die meisten Teilnehmenden empfanden das vermeintlich andere Produkt als schlechter.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t6",
+              "text": "Der Geschmack veränderte sich.\nDer Geruch veränderte sich.\nSogar das Gefühl der Wirksamkeit veränderte sich.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t7",
+              "text": "Dabei hatte sich natürlich nichts davon tatsächlich verändert.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t8",
+              "text": "Was hatte sich also verändert?",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t9",
+              "text": "Erwartung.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t10",
+              "text": "Wiedererkennung.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t11",
+              "text": "Vertrauen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t12",
+              "text": "Erinnerung.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t13",
+              "text": "Emotion.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t14",
+              "text": "Mit anderen Worten:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t15",
+              "text": "DIE MARKE.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p16",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t16",
+              "text": "Das vergessen wir manchmal, wenn wir über Branding sprechen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t17",
+              "text": "Eine Marke ist nicht das Logo in der Ecke.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p18",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t18",
+              "text": "Sie ist die Summe der Erfahrungen rund um ein Produkt oder Unternehmen – geprägt durch Design, Kommunikation, Werbung, Interaktion und unzählige Wiederholungen über die Zeit.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t19",
+              "text": "Und irgendwann wird diese Erfahrung Teil dessen, wie wir das Produkt selbst wahrnehmen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t20",
+              "text": "Deshalb ist Konsistenz wichtig.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p21",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t21",
+              "text": "Deshalb ist unverwechselbares Design wichtig.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p22",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t22",
+              "text": "Deshalb ist Wiederholung wichtig.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p23",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t23",
+              "text": "Und deshalb unterscheidet sich der Aufbau einer Marke grundlegend davon, einfach ein Logo, eine Website oder eine Kampagne zu gestalten.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p24",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t24",
+              "text": "EIN PRODUKT IST DAS, WAS DU HERSTELLST.\nEINE MARKE IST DAS, WAS MENSCHEN ERLEBEN.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p25",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t25",
+              "text": "Und manchmal können sie den Unterschied offenbar sogar schmecken.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p26",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t26",
+              "text": "SABOCON\nCREATIVE INTELLIGENCE.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p27",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "site",
+              "href": "https://www.sabocon.com/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t27",
+              "text": "www.sabocon.com",
+              "marks": [
+                "site"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p28",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t28",
+              "text": "#SABOCON #Branding #BrandStrategy #BrandExperience #CreativeIntelligence",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "_type": "block",
+          "_key": "fr0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt0",
+              "text": "Et soudain, l’impression était différente.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt1",
+              "text": "Une expérience fascinante a récemment retiré les marques familières de produits que les participants connaissaient et aimaient déjà.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt2",
+              "text": "Même produit.\nMêmes ingrédients.\nMême formule.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt3",
+              "text": "Simplement sans le nom et l’emballage familiers.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt4",
+              "text": "Le résultat ?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt5",
+              "text": "La plupart des participants ont jugé moins bon ce produit supposément différent.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt6",
+              "text": "Le goût changeait.\nL’odeur changeait.\nMême l’impression d’efficacité changeait.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt7",
+              "text": "Alors que rien de tout cela n’avait réellement changé.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt8",
+              "text": "Qu’est-ce qui avait donc changé ?",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt9",
+              "text": "L’attente.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt10",
+              "text": "La reconnaissance.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt11",
+              "text": "La confiance.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt12",
+              "text": "La mémoire.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt13",
+              "text": "L’émotion.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt14",
+              "text": "Autrement dit :",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt15",
+              "text": "LA MARQUE.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr16",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt16",
+              "text": "Nous l’oublions parfois lorsque nous parlons de branding.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt17",
+              "text": "Une marque n’est pas le logo dans un coin.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr18",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt18",
+              "text": "C’est l’ensemble des expériences qui entourent un produit ou une entreprise, construit par le design, la communication, la publicité, les interactions et d’innombrables répétitions au fil du temps.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt19",
+              "text": "Cette expérience finit par influencer notre perception du produit lui-même.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt20",
+              "text": "Voilà pourquoi la cohérence compte.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr21",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt21",
+              "text": "Voilà pourquoi un design distinctif compte.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr22",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt22",
+              "text": "Voilà pourquoi la répétition compte.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr23",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt23",
+              "text": "Et voilà pourquoi construire une marque est fondamentalement différent de créer simplement un logo, un site ou une campagne.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr24",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt24",
+              "text": "UN PRODUIT, C’EST CE QUE VOUS FABRIQUEZ.\nUNE MARQUE, C’EST CE QUE LES GENS VIVENT.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr25",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt25",
+              "text": "Et parfois, apparemment, ils peuvent même en goûter la différence.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr26",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt26",
+              "text": "SABOCON\nINTELLIGENCE CRÉATIVE.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr27",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "site",
+              "href": "https://www.sabocon.com/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt27",
+              "text": "www.sabocon.com",
+              "marks": [
+                "site"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr28",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt28",
+              "text": "#SABOCON #Branding #BrandStrategy #BrandExperience #CreativeIntelligence",
+              "marks": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "_id": "local-small-change",
+    "slug": "just-one-small-change",
+    "title": {
+      "en": "JUST ONE SMALL CHANGE.",
+      "de": "JUST ONE SMALL CHANGE.",
+      "fr": "JUSTE UNE PETITE MODIFICATION."
+    },
+    "excerpt": {
+      "de": "Das kennt wirklich jeder aus Agentur, Design, Webentwicklung und Marketing. Vier Worte – und manchmal ein ganz neues Projekt.",
+      "en": "A familiar phrase in agencies, design, web development and marketing. Four words — and sometimes a whole new project.",
+      "fr": "Une expression bien connue des agences. Quelques mots, et parfois un tout nouveau projet."
+    },
+    "publishedAt": "2026-11-23T12:00:00+01:00",
+    "image": {
+      "url": "/blog/just-one-small-change.png",
+      "aspectRatio": 0.8002853067047075,
+      "alt": {
+        "de": "SABOCON-Plakat „Just one small change. Version 27.“ mit zwei lachenden Männern vor einem orangefarbenen Kreis.",
+        "en": "SABOCON poster reading “Just one small change. Version 27.” with two laughing men in front of an orange circle.",
+        "fr": "Affiche « Just one small change. Version 27. » avec deux hommes riant devant un cercle orange."
+      }
+    },
+    "body": {
+      "de": [
+        {
+          "_type": "block",
+          "_key": "p0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t0",
+              "text": "Vier Worte, bei denen Agenturen kurz aufhören zu atmen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t1",
+              "text": "Denn „eine ganz kleine Änderung“ kann vieles bedeuten.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t2",
+              "text": "Die Überschrift zwei Millimeter nach links.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t3",
+              "text": "Oder:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t4",
+              "text": "Neue Zielgruppe.\nNeue Navigation.\nAndere Bildsprache.\nDas Logo vielleicht doch größer.\nDie Startseite komplett anders.\nUnd wenn wir sowieso gerade dabei sind, könnten wir vielleicht noch schnell …",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t5",
+              "text": "Natürlich.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t6",
+              "text": "Wir lieben Änderungen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t7",
+              "text": "Wirklich.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t8",
+              "text": "Schließlich entstehen gute Projekte nicht dadurch, dass die erste Idee unangetastet bleibt. Hinterfragen, ausprobieren und verbessern gehört zu unserer Arbeit.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t9",
+              "text": "Wir haben nur irgendwann gelernt:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t10",
+              "text": "Die Größe einer Änderung und die Anzahl der Wörter, mit denen sie angekündigt wird, stehen in keinerlei messbarem Zusammenhang.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t11",
+              "text": "In diesem Sinne:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t12",
+              "text": "Schickt uns Eure Änderungen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t13",
+              "text": "Auch die kleinen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "before",
+              "text": "Wir haben sicherheitshalber schon einmal ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "filename",
+              "text": "Version_final_final_03_NEU.psd",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "after",
+              "text": " angelegt.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t15",
+              "text": "SABOCON\nStrategy. Design. AI. Digital Innovation.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p16",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "site",
+              "href": "https://www.sabocon.com/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t16",
+              "text": "sabocon.com",
+              "marks": [
+                "site"
+              ]
+            }
+          ]
+        }
+      ],
+      "en": [
+        {
+          "_type": "block",
+          "_key": "p0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t0",
+              "text": "Four words that make agencies stop breathing for a second.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t1",
+              "text": "Because “one small change” can mean many things.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t2",
+              "text": "Move the headline two millimetres to the left.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t3",
+              "text": "Or:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t4",
+              "text": "New target audience.\nNew navigation.\nDifferent visual language.\nMaybe make the logo bigger.\nCompletely rethink the homepage.\nAnd while we're at it, could we quickly…",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t5",
+              "text": "Of course.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t6",
+              "text": "We love changes.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t7",
+              "text": "Really.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t8",
+              "text": "Great projects don't happen because the first idea remains untouched. Questioning, experimenting and improving are part of what we do.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t9",
+              "text": "We've just learned one thing over the years:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t10",
+              "text": "There is absolutely no measurable correlation between the size of a change and the number of words used to announce it.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t11",
+              "text": "So:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t12",
+              "text": "Send us your changes.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t13",
+              "text": "Even the small ones.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "before",
+              "text": "Just to be safe, we've already created\n",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "filename",
+              "text": "version_final_final_03_NEW.psd",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "after",
+              "text": "",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "p15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "t15",
+              "text": "SABOCON\nStrategy. Design. AI. Digital Innovation.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "_type": "block",
+          "_key": "fr0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt0",
+              "text": "Quelques mots qui coupent le souffle aux agences pendant une seconde.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt1",
+              "text": "Car « juste une petite modification » peut vouloir dire bien des choses.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt2",
+              "text": "Déplacer le titre de deux millimètres vers la gauche.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt3",
+              "text": "Ou :",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr4",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt4",
+              "text": "Nouveau public cible.\nNouvelle navigation.\nUn autre langage visuel.\nLe logo un peu plus grand, peut-être.\nRepenser entièrement la page d’accueil.\nEt tant qu’on y est, pourrait-on juste…",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt5",
+              "text": "Bien sûr.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt6",
+              "text": "Nous aimons les modifications.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt7",
+              "text": "Vraiment.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt8",
+              "text": "Les bons projets ne naissent pas d’une première idée laissée intacte. Questionner, expérimenter et améliorer font partie de notre métier.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt9",
+              "text": "Nous avons simplement appris une chose au fil du temps :",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt10",
+              "text": "Il n’existe absolument aucune corrélation mesurable entre l’ampleur d’une modification et le nombre de mots utilisés pour l’annoncer.",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt11",
+              "text": "Alors :",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt12",
+              "text": "Envoyez-nous vos modifications.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt13",
+              "text": "Même les petites.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr14",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt14",
+              "text": "Par précaution, nous avons déjà créé\nversion_finale_finale_03_NOUVELLE.psd",
+              "marks": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "fr15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "frt15",
+              "text": "SABOCON\nStratégie. Design. IA. Innovation numérique.",
+              "marks": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

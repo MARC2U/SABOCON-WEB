@@ -1,0 +1,4 @@
+import { NextStudio } from "next-sanity/studio";
+import config from "../../../../sanity.config";
+export { viewport } from "next-sanity/studio";
+export default function Studio(){if(!process.env.NEXT_PUBLIC_SANITY_PROJECT_ID)return <main style={{fontFamily:"Arial",maxWidth:680,margin:"60px auto",padding:24}}><h1>SABOCON Redaktion</h1><p>Die Redaktionsoberfläche ist vorbereitet. Zum Aktivieren muss euer Sanity-Projekt verbunden werden.</p><ol><li>Sanity-Konto und Projekt anlegen.</li><li>Projekt-ID und Dataset in der lokalen Konfiguration ergänzen.</li><li>Diese Website-Adresse als erlaubten Ursprung bei Sanity hinterlegen.</li><li>Website neu starten und hier mit eurem Sanity-Konto anmelden.</li></ol><p>Es werden derzeit keine Inhalte gespeichert. Eine lokale Anleitung liegt im Projekt unter CONTENT-EDITOR.md.</p><a href="/en">Zur Website</a></main>;return <NextStudio config={config}/>;}

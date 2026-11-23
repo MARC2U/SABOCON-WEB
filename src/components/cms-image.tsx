@@ -1,0 +1,2 @@
+import Image from "next/image";
+export function CmsImage({url,alt,large=false,aspectRatio}:{url:string;alt:string;large?:boolean;aspectRatio?:number}){return <div className="cms-image" style={aspectRatio?{aspectRatio}:undefined}><Image src={url} alt={alt} fill sizes={large?"(max-width: 700px) 100vw, 1100px":"(max-width: 700px) 100vw, (max-width: 1000px) 50vw, 25vw"} style={{objectFit:large?"contain":"cover"}}/></div>;}

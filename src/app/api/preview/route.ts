@@ -1,0 +1,3 @@
+import { draftMode } from "next/headers";
+import { matchesSecret } from "@/lib/secret";
+export async function GET(request:Request){const url=new URL(request.url);if(!matchesSecret(url.searchParams.get("secret"),process.env.CMS_PREVIEW_SECRET)||!process.env.SANITY_API_READ_TOKEN)return new Response("Unauthorized",{status:401});const path=url.searchParams.get("path")||"/en";if(!/^\/(en|de|fr)(\/blog(\/[a-zA-Z0-9-]+)?)?$/.test(path))return new Response("Invalid path",{status:400});(await draftMode()).enable();return new Response(null,{status:307,headers:{Location:path,"Cache-Control":"no-store"}});}
