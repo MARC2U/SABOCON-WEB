@@ -58,3 +58,58 @@ html[lang=fr] .belief h2{font-size:clamp(32px,4.2vw,65px)}
 h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
+
+.clients h2 {
+  font-size: clamp(30px, 5vw, 64px);
+  margin-bottom: 24px;
+}
+
+.client-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  gap: 12px 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.client-list li {
+  border-top: 1px solid #b8b4aa;
+  padding-top: 8px;
+  font-size: clamp(12px, 1.1vw, 15px);
+  font-weight: 700;
+  overflow-wrap: anywhere;
+  text-transform: uppercase;
+}
+
+.client-list a {
+  text-decoration: underline;
+  text-underline-offset: .25em;
+}
+
+.client-list a:hover {
+  color: #983000;
+}
+
+.footer-main nav a,
+.footer-main address a {
+  display: flex;
+  align-items: center;
+  min-height: 24px;
+  min-width: 24px;
+  width: fit-content;
+}
+
+.client-list a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  min-width: 24px;
+}
+
+.nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  min-width: 24px;
+}
