@@ -7,6 +7,27 @@ import type { Locale } from "@/content/site";
 
 const ornaments = [[49, 26], [41, 43], [59, 46], [34, 62], [52, 61], [65, 69]] as const;
 const occasions = ["christmas", "easter", "valentine"] as const;
+const occasionIcons = {
+  christmas: (
+    <>
+      <path d="M16 4 9.5 12h3L7 19h4l-6 7h22l-6-7h4l-5.5-7h3L16 4Z" fill="#111" />
+      <path d="M16 25v4" stroke="#111" strokeWidth="3" />
+      <path d="M13 15h.1m5 4h.1m-6 4h.1m9 0h.1" stroke="#fff" strokeWidth="2" strokeLinecap="round" />
+    </>
+  ),
+  easter: (
+    <>
+      <path d="M16 4C11 4 7 13 7 20a9 9 0 0 0 18 0c0-7-4-16-9-16Z" fill="#111" />
+      <path d="m9.5 16.5 3 2.5 3.5-3 3.5 3 3-2.5M13 23h.1m6 0h.1" fill="none" stroke="#fff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+    </>
+  ),
+  valentine: (
+    <>
+      <path d="M16 26.5 6.4 17a6.6 6.6 0 0 1 9.3-9.3l.3.3.3-.3a6.6 6.6 0 0 1 9.3 9.3L16 26.5Z" fill="#111" />
+      <path d="M8 13a3 3 0 0 1 3-3" fill="none" stroke="#fff" strokeWidth="2" strokeLinecap="round" />
+    </>
+  ),
+};
 const campaignMockups = ["summer-halloween", "forest-gifts", "forest-harvest"] as const;
 
 const donation = 5;
@@ -109,7 +130,10 @@ export function FundraisingDemo({ locale }: { locale: Locale }) {
         <div className="fundraising-themes" role="group" aria-label={copy.themeLabel}>
           {occasions.map((occasion) => (
             <button key={occasion} type="button" aria-pressed={theme === occasion} onClick={() => setTheme(occasion)}>
-              {copy.themes[occasion]}
+              <span className="fundraising-theme-icon" aria-hidden="true">
+                <svg viewBox="0 0 32 32" focusable="false">{occasionIcons[occasion]}</svg>
+              </span>
+              <span>{copy.themes[occasion]}</span>
             </button>
           ))}
         </div>

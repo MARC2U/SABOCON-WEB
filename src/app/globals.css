@@ -340,6 +340,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (prefers-reduced-motion: no-preference) {
   :is(.cms-image, .clients-teaser-art, .service-art, .belief-art, .contact-art) img,
   .reference-art,
+  .fundraising-theme-icon,
   :is(.fundraising-mockup, .sound-example-poster, .fundraising-gallery) img,
   .featured-project h3 span,
   .clients-teaser-copy .pill > span {
@@ -372,6 +373,10 @@ h1, h2, h3, h4, h5, h6 {
   .featured-project:hover .cms-image img,
   .clients-teaser-link:hover .clients-teaser-art img {
     transform: scale(1.035);
+  }
+
+  .fundraising-themes button:hover .fundraising-theme-icon {
+    transform: scale(1.075);
   }
 
   .cms-image:hover img[data-fit="contain"],
@@ -760,12 +765,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fundraising-themes button {
-  min-height: 36px;
-  padding: 4px 10px;
-  border: 1px solid var(--paper);
+  display: inline-grid;
+  justify-items: center;
+  align-content: center;
+  gap: 6px;
+  min-width: 88px;
+  padding: 8px;
+  border: 1px solid transparent;
+  border-radius: 8px;
   background: transparent;
   color: var(--paper);
-  cursor: pointer;
+  font-size: .875rem;
+}
+
+.fundraising-theme-icon {
+  display: grid;
+  place-items: center;
+  width: 46px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: var(--orange);
+}
+
+.fundraising-theme-icon svg {
+  width: 30px;
+  height: 30px;
 }
 
 .fundraising-themes button[aria-pressed="true"] {
