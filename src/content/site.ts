@@ -1,3 +1,4 @@
+import { treedonatorUrl } from "./featured-projects";
 import french from "./fr.json";
 // Confirmed: opening line, project names, supplied logo assets. All other copy is an editorial proposal.
 export const hero = { opening: "Hey, we’re SABOCON.", paragraphs: ["We’re a creative technology, graphic design and branding agency based in Frankfurt, Germany.", "A team of designers, technologists, musicians and futurists – rooted in narrative and driven by collaboration.", "We create digital products, brands and experiences that connect. From visualidentities to websites, apps, motion design, events and interactive installations.", "💡 If you’re looking for smart ideas and bold design, we’d love to hear from you."], isDraft: false };
@@ -10,6 +11,7 @@ export const services = [
 ];
 export const projects = [
  { name: "Rieger-Hofmann", categories: ["Websites", "Brands", "Systems"], crop: [234, 1136, 187, 120] },
+ { name: "Treedonator", categories: ["Websites", "Systems"], url: treedonatorUrl },
  { name: "XMS DONATE", categories: [] },
  { name: "SinoScan", categories: ["Websites", "Brands"], crop: [35, 1136, 187, 120] },
  { name: "GerneGrün", categories: ["Websites", "Brands"] },

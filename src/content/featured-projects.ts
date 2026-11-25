@@ -1,6 +1,8 @@
 import { projectImages } from "./project-images";
 import { projectPreviews } from "./project-previews";
 
+export const treedonatorUrl = "https://treedonator.sabocon.com/";
+
 export const featuredProjects = [
   {
     slug: "rieger-hofmann",
@@ -27,6 +29,16 @@ export const featuredProjects = [
       en: "Brand design, website and digital tools for families.",
       de: "Markendesign, Website und digitale Werkzeuge für Familien.",
       fr: "Identité de marque, site web et outils numériques pour les familles.",
+    },
+  },
+  {
+    slug: "treedonator",
+    name: "Treedonator",
+    url: treedonatorUrl,
+    line: {
+      en: "A tree-planting donation platform with an interactive map.",
+      de: "Eine Spendenplattform für Baumpflanzaktionen mit interaktiver Karte.",
+      fr: "Une plateforme de dons pour planter des arbres, avec une carte interactive.",
     },
   },
 ].map((project) => ({

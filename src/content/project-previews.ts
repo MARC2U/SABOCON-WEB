@@ -1,4 +1,9 @@
 export const projectPreviews: Record<string, {en:string;de:string;fr:string}> = {
+  "Treedonator": {
+    en: "SABOCON developed Treedonator for organisations running tree-planting campaigns. Donors can choose a planting location on a map and follow the campaign’s progress. Organisers can configure locations, donation amounts, map design and payment options in a dashboard.",
+    de: "SABOCON hat Treedonator für Organisationen entwickelt, die Baumspenden sammeln. Spendende wählen einen Pflanzstandort auf der Karte und können den Fortschritt der Kampagne verfolgen. Im Dashboard lassen sich Pflanzorte, Spendenbeträge, Kartendesign und Zahlungsoptionen konfigurieren.",
+    fr: "SABOCON a développé Treedonator pour les organisations qui collectent des dons pour planter des arbres. Les donateurs choisissent un lieu de plantation sur une carte et suivent la progression de la campagne. Le tableau de bord permet de configurer les lieux, les montants, l’apparence de la carte et les modes de paiement.",
+  },
   "Rieger-Hofmann": {
     "en": "A fresh visual identity, a distinctive digital presence and innovative interactive tools. Bringing strategy, design and technology together to create a seamless brand experience that goes beyond the conventional website.",
     "de": "Eine frische visuelle Identität, ein unverwechselbarer digitaler Auftritt und innovative interaktive Tools. Strategie, Design und Technologie verbinden sich zu einem nahtlosen Markenerlebnis, das über eine klassische Website hinausgeht.",

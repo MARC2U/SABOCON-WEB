@@ -1,11 +1,12 @@
+import { FundraisingDemo } from "./fundraising-demo";
 import { CmsImage } from "./cms-image";
 import { featuredProjects } from "@/content/featured-projects";
 import type { Locale } from "@/content/site";
 
 export const projectLabels = {
-  en: { title: "Selected projects", all: "All projects", contact: "Discuss a similar project", work: "SABOCON’s contribution" },
-  de: { title: "Ausgewählte Projekte", all: "Alle Projekte", contact: "Ein ähnliches Projekt besprechen", work: "Der Beitrag von SABOCON" },
-  fr: { title: "Projets sélectionnés", all: "Tous les projets", contact: "Discuter d’un projet similaire", work: "La contribution de SABOCON" },
+  en: { visit: "Visit project", title: "Selected projects", all: "All projects", contact: "Discuss a similar project", work: "SABOCON’s contribution" },
+  de: { visit: "Projektwebsite öffnen", title: "Ausgewählte Projekte", all: "Alle Projekte", contact: "Ein ähnliches Projekt besprechen", work: "Der Beitrag von SABOCON" },
+  fr: { visit: "Voir le site du projet", title: "Projets sélectionnés", all: "Tous les projets", contact: "Discuter d’un projet similaire", work: "La contribution de SABOCON" },
 };
 
 export function FeaturedWork({ locale }: { locale: Locale }) {
@@ -27,6 +28,7 @@ export function FeaturedWork({ locale }: { locale: Locale }) {
           </article>
         ))}
       </div>
+      <FundraisingDemo locale={locale} />
     </section>
   );
 }

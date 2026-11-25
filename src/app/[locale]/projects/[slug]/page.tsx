@@ -41,6 +41,9 @@ export default async function ProjectCaseStudy({ params }: Props) {
         <CmsImage url={project.image.url} alt={project.image.alt[locale]} large />
         <h2>{labels.work}</h2>
         <p>{project.description[locale]}</p>
+        {project.url && (
+          <p><ExternalLink href={project.url} locale={locale}>{labels.visit} <span aria-hidden="true">↗</span></ExternalLink></p>
+        )}
         <section aria-labelledby="case-contact">
           <h2 id="case-contact">{labels.contact}</h2>
           <div className="contact-actions">

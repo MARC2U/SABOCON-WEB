@@ -1,5 +1,13 @@
 // User-supplied project artwork; originals remain unchanged.
 export const projectImages: Record<string, {url:string;alt:{en:string;de:string;fr:string}}> = {
+  "Treedonator": {
+    url: "/projects/treedonator.webp",
+    alt: {
+      en: "Treedonator platform preview with a map for choosing where to plant a tree.",
+      de: "Vorschau der Treedonator-Plattform mit Karte zur Auswahl eines Pflanzstandorts.",
+      fr: "Aperçu de la plateforme Treedonator avec une carte pour choisir un lieu de plantation.",
+    },
+  },
   "SinoScan": {
     "url": "/projects/sinoscan.jpeg",
     "alt": {
