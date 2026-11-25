@@ -1,5 +1,1195 @@
 [
   {
+    "_id": "local-interactive-fundraising",
+    "slug": "interactive-fundraising",
+    "title": {
+      "en": "DON'T JUST COLLECT DONATIONS. CREATE SOMETHING PEOPLE WANT TO BE PART OF.",
+      "de": "SAMMELT SPENDEN. UND SCHAFFT ETWAS, BEI DEM MENSCHEN MITMACHEN WOLLEN.",
+      "fr": "COLLECTEZ DES DONS. CRÉEZ UNE EXPÉRIENCE À LAQUELLE ON A ENVIE DE PARTICIPER."
+    },
+    "excerpt": {
+      "en": "What if donating became an experience? How interactive fundraising platforms bring people together around a good cause.",
+      "de": "Was wäre, wenn Spenden zum Erlebnis würde? Wie interaktive Spendenplattformen Menschen für eine gute Sache zusammenbringen.",
+      "fr": "Et si faire un don devenait une expérience ? Comment les plateformes de dons interactives rassemblent autour d’une bonne cause."
+    },
+    "publishedAt": "2026-11-25T12:00:00+01:00",
+    "image": {
+      "url": "/blog/interactive-fundraising.jpg",
+      "aspectRatio": 0.8,
+      "alt": {
+        "en": "SABOCON fundraising poster showing a Christmas donation campaign on a phone and desktop screen, with orange ornaments and a donation progress bar.",
+        "de": "SABOCON-Plakat mit einer Weihnachtsspendenaktion auf Smartphone und Desktop, orangefarbenem Baumschmuck und einem Balken für den Spendenfortschritt.",
+        "fr": "Affiche SABOCON présentant une collecte de Noël sur smartphone et ordinateur, avec des décorations orange et une barre de progression des dons."
+      }
+    },
+    "body": {
+      "en": [
+        {
+          "_type": "block",
+          "_key": "b0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "What if donating became an experience?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "A Christmas tree that grows with every donation.\nA heart that carries someone's name.\nA virtual tree that represents a real contribution to reforestation.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "At SABOCON, we develop ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "interactive, gamified donation platforms",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " that turn fundraising into something people can see, experience and share.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Because giving should feel meaningful. And participation should be rewarding.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b4",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "MORE THAN A DONATION BUTTON.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Our individually designed platforms combine creative storytelling with smart technology:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Fully customisable:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Design, branding and fundraising concept tailored to your organisation.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Interactive experiences:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Virtual Christmas ornaments, Easter eggs, hearts, trees and much more.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Personal recognition:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Donors can add names, messages and, where enabled, images.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Visible progress:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Fundraising goals and contributions become part of a shared experience.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Flexible payments:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Integration of established payment solutions.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Optional automation:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Donation receipts and additional features tailored to your needs.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Made to connect:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Responsive experiences that can be integrated into websites and campaigns.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "From seasonal fundraising to long-term charitable initiatives, we create digital experiences that bring people together around a good cause.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b14",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "A CURRENT EXAMPLE?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Discover our interactive Christmas donation platform for Monikahaus:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b16",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "monikahaus",
+              "href": "https://monikahaus.xmsdonate.de"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "https://monikahaus.xmsdonate.de",
+              "marks": [
+                "monikahaus"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "And if your organisation has an idea for a fundraising campaign, we'd love to develop it with you.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b18",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "GOOD CAUSES DESERVE GREAT IDEAS.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "SABOCON\nCREATIVE INTELLIGENCE.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "#SABOCON #DigitalFundraising #DonationPlatform #NonprofitMarketing #CreativeTechnology #Fundraising",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "de": [
+        {
+          "_type": "block",
+          "_key": "b0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Was wäre, wenn Spenden zum Erlebnis würde?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Ein Weihnachtsbaum, der mit jeder Spende wächst.\nEin Herz, das den Namen eines Menschen trägt.\nEin virtueller Baum, der für einen echten Beitrag zur Wiederaufforstung steht.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Bei SABOCON entwickeln wir ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "interaktive Spendenplattformen mit spielerischen Elementen",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": ". So wird Fundraising sichtbar, erlebbar und teilbar.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Denn Spenden soll sich sinnvoll anfühlen. Und Mitmachen soll sich lohnen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b4",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "MEHR ALS EIN SPENDENBUTTON.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Unsere individuell gestalteten Plattformen verbinden kreatives Storytelling mit intelligenter Technologie:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Individuell anpassbar:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Design, Markenauftritt und Fundraising-Konzept abgestimmt auf eure Organisation.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Interaktive Erlebnisse:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Virtueller Weihnachtsschmuck, Ostereier, Herzen, Bäume und vieles mehr.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Persönliche Anerkennung:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Spenderinnen und Spender können Namen und Nachrichten hinzufügen, bei entsprechender Freischaltung auch Bilder.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Sichtbarer Fortschritt:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Spendenziele und Beiträge werden Teil eines gemeinsamen Erlebnisses.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Flexible Zahlungen:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Integration etablierter Zahlungslösungen.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Optionale Automatisierung:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Spendenbescheinigungen und weitere Funktionen nach eurem Bedarf.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Leicht integrierbar:",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " Responsive Erlebnisse für Websites und Kampagnen.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Von saisonalen Spendenaktionen bis zu langfristigen gemeinnützigen Initiativen entwickeln wir digitale Erlebnisse, die Menschen für eine gute Sache zusammenbringen.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b14",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "EIN AKTUELLES BEISPIEL?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Entdeckt unsere interaktive Weihnachtsspendenplattform für das Monikahaus:",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b16",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "monikahaus",
+              "href": "https://monikahaus.xmsdonate.de"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "https://monikahaus.xmsdonate.de",
+              "marks": [
+                "monikahaus"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Wenn eure Organisation eine Idee für eine Spendenkampagne hat, entwickeln wir sie gern mit euch weiter.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b18",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "GUTE SACHEN VERDIENEN GROSSE IDEEN.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "SABOCON\nCREATIVE INTELLIGENCE.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "#SABOCON #DigitalFundraising #DonationPlatform #NonprofitMarketing #CreativeTechnology #Fundraising",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "_type": "block",
+          "_key": "b0",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Et si faire un don devenait une expérience ?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Un sapin de Noël qui grandit à chaque don.\nUn cœur qui porte le nom de quelqu’un.\nUn arbre virtuel qui représente une contribution réelle au reboisement.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b2",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Chez SABOCON, nous développons des ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "plateformes de dons interactives et ludiques",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " qui rendent la collecte visible et permettent à chacun de la vivre et de la partager.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b3",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Donner doit avoir du sens. Et participer doit être gratifiant.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b4",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "BIEN PLUS QU’UN BOUTON DE DON.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b5",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Nos plateformes conçues sur mesure associent récit créatif et technologie :",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Entièrement personnalisable :",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " design, identité de marque et concept de collecte adaptés à votre organisation.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Expériences interactives :",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " décorations de Noël virtuelles, œufs de Pâques, cœurs, arbres et bien plus encore.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b8",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Reconnaissance personnalisée :",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " les donateurs peuvent ajouter des noms, des messages et, si la fonction est activée, des images.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Progrès visibles :",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " les objectifs de collecte et les contributions s’inscrivent dans une expérience commune.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b10",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Paiements flexibles :",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " intégration de solutions de paiement reconnues.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b11",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Automatisation facultative :",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " reçus de dons et fonctionnalités supplémentaires selon vos besoins.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b12",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s1",
+              "text": "Facile à intégrer :",
+              "marks": [
+                "strong"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "s2",
+              "text": " des expériences adaptées à tous les écrans, à intégrer à vos sites et campagnes.",
+              "marks": []
+            }
+          ],
+          "listItem": "bullet",
+          "level": 1
+        },
+        {
+          "_type": "block",
+          "_key": "b13",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Des collectes saisonnières aux initiatives caritatives de long terme, nous créons des expériences numériques qui rassemblent les gens autour d’une bonne cause.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b14",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "UN EXEMPLE ACTUEL ?",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b15",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Découvrez notre plateforme interactive de dons de Noël pour le Monikahaus :",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b16",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "monikahaus",
+              "href": "https://monikahaus.xmsdonate.de"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "https://monikahaus.xmsdonate.de",
+              "marks": [
+                "monikahaus"
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b17",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "Si votre organisation a une idée de campagne de collecte, nous serions ravis de la développer avec vous.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b18",
+          "style": "h2",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "LES BONNES CAUSES MÉRITENT DE GRANDES IDÉES.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b19",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "SABOCON\nCREATIVE INTELLIGENCE.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "b20",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "s0",
+              "text": "#SABOCON #DigitalFundraising #DonationPlatform #NonprofitMarketing #CreativeTechnology #Fundraising",
+              "marks": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "_id": "local-manifesto",
     "slug": "what-we-believe",
     "title": {

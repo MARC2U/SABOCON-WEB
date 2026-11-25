@@ -2,11 +2,11 @@ import french from "./fr.json";
 // Confirmed: opening line, project names, supplied logo assets. All other copy is an editorial proposal.
 export const hero = { opening: "Hey, we’re SABOCON.", paragraphs: ["We’re a creative technology, graphic design and branding agency based in Frankfurt, Germany.", "A team of designers, technologists, musicians and futurists – rooted in narrative and driven by collaboration.", "We create digital products, brands and experiences that connect. From visualidentities to websites, apps, motion design, events and interactive installations.", "💡 If you’re looking for smart ideas and bold design, we’d love to hear from you."], isDraft: false };
 export const services = [
- { title: "Strategy & Brand", items: ["Beratung", "Markenstrategie", "Corporate Identity", "Design", "Kommunikation"], crop: [32, 750, 147, 123] },
- { title: "Digital Experiences", items: ["Websites", "Headless CMS", "UX/UI", "E-Commerce", "Digitale Anwendungen"], crop: [190, 750, 153, 123] },
- { title: "AI & Intelligent Systems", items: ["KI-Integration", "Automatisierung", "Workflows", "Wissenssysteme", "Prozessoptimierung"], crop: [355, 750, 147, 123] },
- { title: "Content & Communication", items: ["Social Media", "Kampagnen", "Content", "SEO & GEO", "LLM-Optimierung"], crop: [515, 750, 151, 123] },
- { title: "Sound & Experience", items: ["SABOCON SOUND SCOUTS", "Audio Branding", "Sonic Logos", "Musikproduktion", "Sounddesign"], crop: [679, 750, 147, 123] }
+ { title: "Strategy & Brand", items: ["Beratung", "Markenstrategie", "Corporate Identity", "Design", "Kommunikation"], image: "/visuals/strategy-brand.webp" },
+ { title: "Digital Experiences", items: ["Websites", "Headless CMS", "UX/UI", "E-Commerce", "Digitale Anwendungen"], image: "/visuals/digital-experiences.webp" },
+ { title: "AI & Intelligent Systems", items: ["KI-Integration", "Automatisierung", "Workflows", "Wissenssysteme", "Prozessoptimierung"], image: "/visuals/ai-systems.webp" },
+ { title: "Content & Communication", items: ["Social Media", "Kampagnen", "Content", "SEO & GEO", "LLM-Optimierung"], image: "/visuals/content-communication.webp" },
+ { title: "Sound & Experience", items: ["SABOCON SOUND SCOUTS", "Audio Branding", "Sonic Logos", "Musikproduktion", "Sounddesign"], image: "/visuals/sound-experience.webp" }
 ];
 export const projects = [
  { name: "Rieger-Hofmann", categories: ["Websites", "Brands", "Systems"], crop: [234, 1136, 187, 120] },

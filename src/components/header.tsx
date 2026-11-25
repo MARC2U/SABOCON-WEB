@@ -1,7 +1,8 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { usePathname } from "next/navigation";
+import { CookieNotice } from "./cookie-notice";
 import { BrandMark } from "./brand-mark";
 import { locales, translate as t, type Locale } from "@/content/site";
 
@@ -13,6 +14,7 @@ export function Header({
   availableLocales?: Locale[];
 }) {
   const [open, setOpen] = useState(false);
+  const header = useRef<HTMLElement>(null);
   const menu = useRef<HTMLElement>(null);
   const toggle = useRef<HTMLButtonElement>(null);
   const pathname = usePathname();
@@ -25,66 +27,85 @@ export function Header({
     [t(locale, "Contact", "Kontakt"), "kontakt"],
   ];
 
+  useLayoutEffect(() => {
+    const element = header.current;
+    if (!element) return;
+
+    const root = document.documentElement;
+    const update = () => root.style.setProperty("--site-header-height", `${element.offsetHeight}px`);
+    const observer = new ResizeObserver(update);
+    update();
+    observer.observe(element);
+    return () => {
+      observer.disconnect();
+      root.style.removeProperty("--site-header-height");
+    };
+  }, []);
+
   useEffect(() => {
     if (open) menu.current?.querySelector("a")?.focus();
   }, [open]);
 
   return (
-    <header
-      className="header"
-      onBlur={(event) => {
-        if (open && !event.currentTarget.contains(event.relatedTarget)) setOpen(false);
-      }}
-      onKeyDown={(event) => {
-        if (event.key === "Escape" && open) {
-          event.preventDefault();
-          setOpen(false);
-          toggle.current?.focus();
-        }
-      }}
-    >
-      <a href={home} className="brand" aria-label={t(locale, "SABOCON home", "SABOCON Startseite")}>
-        <BrandMark className="header-mark" />
-        <span className="wordmark">SABOCON<span className="orange-dot" aria-hidden="true">●</span></span>
-      </a>
-      <nav
-        ref={menu}
-        id="main-nav"
-        aria-label={t(locale, "Main navigation", "Hauptnavigation")}
-        className={open ? "nav open" : "nav"}
+    <>
+      <header
+        ref={header}
+        className="header"
+        onBlur={(event) => {
+          if (open && !event.currentTarget.contains(event.relatedTarget)) setOpen(false);
+        }}
+        onKeyDown={(event) => {
+          if (event.key === "Escape" && open) {
+            event.preventDefault();
+            setOpen(false);
+            toggle.current?.focus();
+          }
+        }}
       >
-        {links.map(([label, id]) => (
-          <a key={id} href={`${home}#${id}`} onClick={() => setOpen(false)}>{label}</a>
-        ))}
-        <a href={`${home}/blog`} onClick={() => setOpen(false)}>Blog</a>
-      </nav>
-      <div className="header-controls">
-        <nav className="language-switch" aria-label={t(locale, "Language selection", "Sprachauswahl")}>
-          {availableLocales.map((lang) => (
-            <a
-              key={lang}
-              href={pathname.replace(/^\/(en|de|fr)(?=\/|$)/, `/${lang}`)}
-              hrefLang={lang}
-              lang={lang}
-              aria-current={locale === lang ? "page" : undefined}
-              aria-label={lang === "en" ? "English" : lang === "fr" ? "Français" : "Deutsch"}
-            >
-              {lang.toUpperCase()}
-            </a>
-          ))}
-        </nav>
-        <button
-          ref={toggle}
-          type="button"
-          className={open ? "menu-toggle active" : "menu-toggle"}
-          aria-label={open ? t(locale, "Close menu", "Menü schließen") : t(locale, "Open menu", "Menü öffnen")}
-          aria-expanded={open}
-          aria-controls="main-nav"
-          onClick={() => setOpen(!open)}
+        <a href={home} className="brand" aria-label={t(locale, "SABOCON home", "SABOCON Startseite")}>
+          <BrandMark className="header-mark" />
+          <span className="wordmark">SABOCON<span className="orange-dot" aria-hidden="true">●</span></span>
+        </a>
+        <nav
+          ref={menu}
+          id="main-nav"
+          aria-label={t(locale, "Main navigation", "Hauptnavigation")}
+          className={open ? "nav open" : "nav"}
         >
-          <span /><span /><span />
-        </button>
-      </div>
-    </header>
+          {links.map(([label, id]) => (
+            <a key={id} href={`${home}#${id}`} onClick={() => setOpen(false)}>{label}</a>
+          ))}
+          <a href={`${home}/blog`} onClick={() => setOpen(false)}>Blog</a>
+        </nav>
+        <div className="header-controls">
+          <nav className="language-switch" aria-label={t(locale, "Language selection", "Sprachauswahl")}>
+            {availableLocales.map((lang) => (
+              <a
+                key={lang}
+                href={pathname.replace(/^\/(en|de|fr)(?=\/|$)/, `/${lang}`)}
+                hrefLang={lang}
+                lang={lang}
+                aria-current={locale === lang ? "page" : undefined}
+                aria-label={lang === "en" ? "English" : lang === "fr" ? "Français" : "Deutsch"}
+              >
+                {lang.toUpperCase()}
+              </a>
+            ))}
+          </nav>
+          <button
+            ref={toggle}
+            type="button"
+            className={open ? "menu-toggle active" : "menu-toggle"}
+            aria-label={open ? t(locale, "Close menu", "Menü schließen") : t(locale, "Open menu", "Menü öffnen")}
+            aria-expanded={open}
+            aria-controls="main-nav"
+            onClick={() => setOpen(!open)}
+          >
+            <span /><span /><span />
+          </button>
+        </div>
+      </header>
+      <CookieNotice locale={locale} />
+    </>
   );
 }
