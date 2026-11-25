@@ -145,14 +145,15 @@ export function FundraisingDemo({ locale }: { locale: Locale }) {
             </div>
           </div>
         ) : (
-          <Image
-            className="fundraising-mockup"
-            src={`/projects/xmsdonate/${theme}.webp`}
-            alt={copy.mockupAlt[theme]}
-            width={1200}
-            height={1200}
-            sizes="(max-width: 700px) 90vw, 400px"
-          />
+          <div className="fundraising-mockup">
+            <Image
+              src={`/projects/xmsdonate/${theme}.webp`}
+              alt={copy.mockupAlt[theme]}
+              width={1200}
+              height={1200}
+              sizes="(max-width: 700px) 90vw, 400px"
+            />
+          </div>
         )}
         <progress className="fundraising-progress" value={amount} max={goal} aria-label={copy.progress} />
         <p className="fundraising-total" role="status">

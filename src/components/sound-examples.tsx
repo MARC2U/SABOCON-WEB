@@ -69,14 +69,15 @@ export function SoundExamples({ locale }: { locale: Locale }) {
           <p>{text.services}</p>
           <a className="sound-contact" href="#kontakt">{text.contact} <span aria-hidden="true">→</span></a>
         </div>
-        <Image
-          className="sound-example-poster"
-          src="/visuals/sound-scouts-poster.webp"
-          alt={text.poster}
-          width={1086}
-          height={1448}
-          sizes="(max-width: 640px) 92vw, 420px"
-        />
+        <div className="sound-example-poster">
+          <Image
+            src="/visuals/sound-scouts-poster.webp"
+            alt={text.poster}
+            width={1086}
+            height={1448}
+            sizes="(max-width: 640px) 92vw, 420px"
+          />
+        </div>
       </div>
       <p className="sound-example-caption">{text.intro}</p>
       <div className="sound-example-grid">

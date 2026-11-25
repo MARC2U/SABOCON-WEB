@@ -338,9 +338,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .featured-project .cms-image img,
+  :is(.cms-image, .clients-teaser-art, .service-art, .belief-art, .contact-art) img,
+  .reference-art,
+  :is(.fundraising-mockup, .sound-example-poster, .fundraising-gallery) img,
   .featured-project h3 span,
-  .clients-teaser-art img,
   .clients-teaser-copy .pill > span {
     transition: transform .35s ease-out;
   }
@@ -367,9 +368,17 @@ h1, h2, h3, h4, h5, h6 {
     transition: transform .4s cubic-bezier(.2,.65,.35,1);
   }
 
+  :is(.cms-image, .service-art, .belief-art, .contact-art):hover img,
   .featured-project:hover .cms-image img,
   .clients-teaser-link:hover .clients-teaser-art img {
     transform: scale(1.035);
+  }
+
+  .cms-image:hover img[data-fit="contain"],
+  :is(.work-grid, .insights-grid) article:hover .reference-art,
+  :is(.fundraising-mockup, .sound-example-poster):hover img,
+  .fundraising-gallery figure:hover img {
+    transform: scale(.97);
   }
 
   .featured-project:hover h3 span,
@@ -766,8 +775,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fundraising-mockup {
-  display: block;
   width: min(100%, 400px);
+}
+
+:is(.fundraising-mockup, .sound-example-poster) img {
+  display: block;
+  width: 100%;
   height: auto;
 }
 
